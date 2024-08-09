@@ -104,7 +104,7 @@ A curated list of tools, tutorials, repositories, and books for learning geocomp
 - [Harvard Geospatial Library](https://library.harvard.edu/services-tools/harvard-geospatial-library)  
   Download regional and local geographic data and georeferenced scanned paper maps.
 - [Kaggle](https://www.kaggle.com/)  
-  AI/ML community that provides community, models, notebooks, and public datasets including geospatial-related content.
+  AI/ML community platform that provides models, notebooks, and public datasets including geospatial-related content.
 - [Open Geospatial Datasets for GIS Education](https://github.com/andrea-ballatore/open-geo-data-education)  
   A repository of open geospatial datasets to be used in an educational context. 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)  
