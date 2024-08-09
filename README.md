@@ -14,7 +14,7 @@ A curated list of tools, tutorials, repositories, and books for learning geocomp
 - [GIS Stack Exchange](https://gis.stackexchange.com/)  
   Community Q&A for GIS-related questions.
 - [arXiv](https://arxiv.org/)  
-  A free distribution service for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering, systems science, and economics.
+  A free distribution service for scholarly articles in STEM fields.
 - [GIS Geography](https://gisgeography.com/)  
   Resources and information on all aspects of GIS, including well-crafted geo-infographics, comprehensive guides, and exhaustive lists.
 
