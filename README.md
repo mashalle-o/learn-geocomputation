@@ -1,5 +1,5 @@
 # 🌏 Geocomputation Resources and Tools 🛠️ 
-A curated list of tools, tutorials, repositories, and books on all things geocomputation.
+A curated list of tools, tutorials, repositories, and books for learning geocomputation.
 
 ## 🌼 **General**
 - [System for Automated Geoscientific Analyses (SAGA)](https://saga-gis.sourceforge.io/en/index.html)
