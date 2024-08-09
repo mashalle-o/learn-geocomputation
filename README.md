@@ -58,7 +58,7 @@ A curated list of tools, tutorials, repositories, and books on all things geocom
 - [ArcGIS Open Data](https://www.esri.com/en-us/arcgis/products/arcgis-open-data)  
   A platform for discovering, publishing, and sharing open data.
 
-## 🌱 **Geoda**
+## 🌱 **GeoDa**
 - [GeoDa Center](https://geodacenter.github.io/)  
   A free and open-source software tool for spatial data analysis developed by Dr. Luca Anselin.
 - [Introduction to Spatial Data Science by Dr. Luca Anselin](https://www.youtube.com/watch?v=JwHxJsesG2Y&list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht)  
